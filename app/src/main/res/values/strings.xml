@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">HackaHorse</string>
+
+    <string name="language_code">en</string>
+    <string name="error_try_again">An error occurred. Try again later</string>
+    <string name="error_connection_try_again">Connection error. Try again later</string>
+    <string name="error_insufficient_balance">Insufficient balance</string>
+    <string name="error_invalid_password">Invalid password</string>
+    <string name="error_payment_amount_less_than_fee">Payment amount is less than recipient\'s fee</string>
+    <string name="error_unauthorized">The session has been expired</string>
+    <string name="error_tx_general">Transaction failed. Try again later</string>
+    <string name="error_tx_bad_auth">Transaction signature is invalid</string>
+    <string name="error_tx_limits">Transaction exceeds limits set to your account</string>
+    <string name="error_tx_insufficient_balance">@string/error_insufficient_balance</string>
+    <string name="error_tx_invalid_amount">Transaction amount is invalid</string>
+    <string name="error_tx_malformed">Transaction is malformed</string>
+    <string name="error_tx_account_blocked">Your account is blocked</string>
+    <string name="error_tx_invalid_fee">Transaction fee is invalid</string>
+    <string name="error_tx_not_allowed">You are not allowed to perform this action</string>
+    <string name="error_tx_cross_self">Current order crosses one of your existing orders</string>
+    <string name="error_tx_not_found">Requested entry not found</string>
+    <string name="error_tx_kyc_required_to_own_asset">Only verified accounts can own this pass</string>
+    <string name="error_weak_password">Password is weak</string>
+    <string name="error_cannot_be_empty">Cannot be empty</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="error_invalid_credentials">Invalid credentials</string>
+    <string name="error_email_already_taken">Email already taken</string>
+    <string name="error_no_history">Event history is empty</string>
+    <string name="error_no_vaccine">No vaccine found</string>
+    <string name="error_fingerprint_locked">Too many failed attempts. Try again later</string>
+    <string name="no_photos_error">Please take patient photo</string>
+    <string name="no_test_photo_error">There is no patient photo in test result.\nIdentity verification isn`t available.</string>
+
+    <string name="template_file_download_location">File will be downloaded to the \"%1$s\" directory</string>
+
+    <string name="touch_sensor">Touch the sensor</string>
+
+    <string name="today">Today</string>
+    <string name="password_changed_successfully">Passcode has been changed</string>
+    <string name="tfa_dialog_title">Two-factor authentication</string>
+    <string name="tfa_default_dialog_message">Enter verification code</string>
+    <string name="totp_dialog_message">Enter code from the authentication app</string>
+    <string name="email_otp_dialog_message">Verification code was sent to your email</string>
+    <string name="otp_verification_code">Code</string>
+    <string name="error_invalid_otp_code">Invalid code</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="tfa_add_dialog_title">Set up 2FA</string>
+    <string name="template_tfa_add_dialog_message">Open Google Authenticator (or similar app)
+        with the button below
+        \nor import this key manually:\n\n%1$s</string>
+    <string name="tfa_key_copied">Key has been copied to the clipboard</string>
+    <string name="continue_action">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string name="sign_out_confirmation">Are you sure you want to log out?</string>
+    <string name="change_account">Sign in to another account</string>
+
+    <string name="camera_permission_required_hint">Camera permission is required</string>
+    <string name="retry">Retry</string>
+    <string name="open_settings">Open settings</string>
+
+    <string name="check_user_title">Scan the QR code</string>
+    <string name="profile">Profile</string>
+    <string name="wrong_qr_title">Wrong QR Code</string>
+
+    <string name="enable_flash_action">Turn on flashlight</string>
+    <string name="disable_flash_action">Turn off flashlight</string>
+
+    <string name="check_user">Check Patient</string>
+    <string name="event_history">Event History</string>
+    <string name="event_history_title">  Event History</string>
+    <string name="event_detail">Event Details</string>
+    <string name="settings">Settings</string>
+    <string name="change_password">Change Password</string>
+    <string name="via_passport_id">Via Passport ID</string>
+
+    <string name="paste">Paste</string>
+
+    <string name="result">Result</string>
+    <string name="reject">Reject</string>
+    <string name="rejection_title">Rejection Reason</string>
+    <string name="reject_reason_hint">Enter Rejection Reason</string>
+    <string name="approve">Approve</string>
+    <string name="next">Next</string>
+    <string name="login_hint">Welcome</string>
+    <string name="unlock_hint">Welcome Back!</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="old_password_hint">Old Password</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login_button_text">Log in</string>
+    <string name="logout_button_text">Log out</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="dont_have_account">Don\'t have account? Create one</string>
+    <string name="create_account_title">Create an account</string>
+    <string name="sign_in_another_account_title"> Sign in to another account</string>
+    <string name="create_account_stepped_subtitle">Step %d of 3</string>
+    <string name="terms"><![CDATA[By creation an account, I agree with
+    <a href="https://example.com">Terms &amp; Conditions</a> and <a href="https://example.com">Privacy Policy</a>]]></string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="gender_hint">Gender</string>
+    <string name="date_of_birth_hint">Date of Birth</string>
+    <string name="email_verified">Email has been verified</string>
+
+    <string name="personal_info_title">Profile</string>
+    <string name="general_info_title">General Information</string>
+    <string name="attachments_title">Attachments</string>
+    <string name="download_files_button">Download files</string>
+
+    <string name="specializations_hint">Specializations</string>
+    <string name="qualifications_hint">Experience</string>
+    <string name="date_of_registration_hint">Date of Registration</string>
+    <string name="registration_body_hint">Registration Body</string>
+    <string name="registration_number_hint">Registration Number</string>
+    <string name="work_name_hint">Place of Work</string>
+    <string name="work_location_hint">Work Address</string>
+    <string name="certificate_added_hint">Insurance certificate added</string>
+    <string name="add_document_hint">Add document</string>
+    <string name="verify_identity_hint">  Verify identity</string>
+    <string name="view_vaccinations_hint">  View vaccinations</string>
+
+    <string name="processing_progress">Processing…</string>
+
+    <string name="recovery_title">Recovery</string>
+    <string name="reset_pass_button">Reset password</string>
+    <string name="tfa_email_hint">Enter 6 digit we sent to email</string>
+    <string name="tfa_hint">Code</string>
+
+    <string name="user_name_title">User name</string>
+    <string name="location_title">Location</string>
+    <string name="result_title">Result of the verification</string>
+    <string name="approved">Approved</string>
+    <string name="rejected">Rejected</string>
+    <string name="test_name_title">RT-PCR test</string>
+
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="professional_info_title">Professional Information</string>
+    <string name="document_files_title">Document files</string>
+    <string name="security_title">Security</string>
+    <string name="about_gpa_title">About GPA</string>
+    <string name="password_changing_option">Password changing option</string>
+    <string name="tfa_changing_option">Two-factor authentication</string>
+    <string name="integration_info">Integration Information</string>
+    <string name="phone_number_verification_status">Phone number verification status</string>
+    <string name="tap_to_view_tutorials_hint">Tap to view tutorials</string>
+
+    <string name="edit_personal_info">Edit Personal Info</string>
+    <string name="edit_professional_info">Edit Professional Info</string>
+    <string name="edit_documents">Edit Documents</string>
+
+    <string name="check_passport_id_title">Check by the Passport ID</string>
+    <string name="check_passport_id_hint">Enter or scan passport number:</string>
+    <string name="check_passport_id_edit_text_hint">Х Х 1 2 3 4 5 6</string>
+
+    <!--    verify phone number status strings-->
+    <string name="send_code_string">Send code</string>
+    <string name="verify_phone_number_title">Verify number</string>
+    <string name="error_verify_code_text">Error while verifying code</string>
+    <string name="verifying_complete_text">Verification complete</string>
+    <string name="error_invalid_code_format">Invalid code format</string>
+
+    <string name="enable_location_provider">Please enable network location in settings</string>
+    <string name="error_location_permission">You need location permission</string>
+
+
+    <string name="almost_done">Almost done</string>
+    <string name="check_your_email_to_verify_account">Check your email to verify account</string>
+    <string name="open_email_app">Open mailbox</string>
+    <string name="error_email_not_verified">Probably, your email is not verified</string>
+    <string name="email_not_verified_explanation">
+        It seems that your email is not verified yet.
+        Please check your spam folder or request a new letter
+    </string>
+    <string name="resend_letter">Resend letter</string>
+
+    <string name="tutorial_title">Tutorials</string>
+    <string name="verify_identity_title">Identity Verification</string>
+
+    <string name="open_action">Open</string>
+    <string name="copy_action">Copy</string>
+
+    <string name="coincidence_label">Coincidence</string>
+    <string name="compare_button">Compare</string>
+    <string name="matched">Match</string>
+    <string name="not_matched">Not Match</string>
+    <string name="face_hint">Position patients face in the oval</string>
+
+    <string name="or">or</string>
+    <string name="use_touch_id">Use Touch ID</string>
+    <string name="touch_id_info">Touch ID will allow you login \n just with a scan of your touch</string>
+
+    <string name="note">Note</string>
+
+    <string name="vaccinations_title">Vaccinations History</string>
+    <string name="fill_all_fields">"Fill all fields to continue! "</string>
+    <string name="passport_id_not_found">"This passport number was not found! "</string>
+    <string name="view_tests_hint">View RT-PCR tests history</string>
+    <string name="tests_title">RT-PCR Tests History</string>
+    <string name="welcome">Welcome</string>
+    <string name="wait_for_approve">Your request for data verification is processed by the administrator. We apologize for waiting, once your request is approved you will have access to the application. Thank you for choosing our application.</string>
+    <string name="document_downloading">Document will be downloaded in a moment!</string>
+    <string name="attention">Attention!</string>
+    <string name="using_old_kyc">You are using old KYC data! The request for personal data changing is pending for administrator’s review.</string>
+    <string name="kyc_will_be_updated">Wait, please! Your KYC request will be reviewed by administrator!</string>
+    <string name="flight">Flight</string>
+    <string name="hotel">Hotel</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="public_key">Public key</string>
+    <string name="private_key">Private key</string>
+    <string name="scan_front_side">Position front side of document in the frame</string>
+    <string name="scan_pass_number">Scan passport number</string>
+    <string name="key_was_copied">Key was copied to the clipboard!</string>
+    <string name="pcr_paid">PCR paid</string>
+    <string name="pcr_not_paid">PCR not paid</string>
+
+</resources>

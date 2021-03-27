@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1346E0</color>
+    <color name="colorPrimaryDark">#0011A3</color>
+    <color name="colorAccent">#1346E0</color>
+    <color name="lightBlue">#89A3EE</color>
+    <color name="icons">#757575</color>
+    <color name="error">#ff1744</color>
+    <color name="secondary_text">#8D8D8D</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="settings_divider">#D8D8D8</color>
+    <color name="transparent">#00D8D8D8</color>
+    <color name="gray_stroke">#4D222222</color>
+    <color name="gray_stroke_with_alpha">#1F222222</color>
+    <color name="colorPrimaryDisabled">#7B8ED8</color>
+    <color name="gray">#B8B8B8</color>
+    <color name="gray_text_input">#0AFFFFFF</color>
+    <color name="green">#33A02C</color>
+
+    <color name="qr_scanner_overlay_background">#E6FFFFFF</color>
+</resources>
